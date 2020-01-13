@@ -1,1 +1,1 @@
-discordbot: python toki.py
+discordbot: python discordbot.py
